@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oditha Herath</h1>
-<h3 align="center">I'm an Undergraduate Software Engineering Student at SLIIT who interested in frontend and backend developing. I am open to collaborate with various projects and oneday want to be a skilled software engineer in IT industry.</h3>
+<h3 align="center">I'm an Graduate Software Engineering Student at SLIIT who interested in frontend and backend developing. I am open to collaborate with various projects and oneday want to be a skilled software engineer in IT industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21053450&label=Profile%20views&color=0e75b6&style=flat" alt="it21053450" /> </p>
 
