@@ -33,7 +33,7 @@ Oditha Herath
     alt="LinkedIn"
     width="18"
     height="18"
-    style="vertical-align: middle; margin-right: 6px;"
+    style="vertical-align: middle; margin-right: 7px;"
   />
   
 </a>
