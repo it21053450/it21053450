@@ -44,7 +44,7 @@ Oditha Herath
 ### 🛠 Tech Stack
 
 **Frontend**
-- Angular, React, Vue.js
+- Angular, React, Vue.js, Python
 - HTML5, CSS3, Bootstrap, Tailwind
 - JavaScript, TypeScript
 
@@ -54,16 +54,15 @@ Oditha Herath
 - PHP
 
 **Databases**
-- MySQL, MongoDB, Oracle, SQLite
+- MySQL, MongoDB, Oracle, SQLite, Redis (familiarity), Firebase
 
 **Cloud & DevOps**
-- Azure, Firebase
+- Azure, AWS, Docker, Kubernetes
 - Git, GitHub
 - Linux
 
 **Mobile**
 - Android
-- React Native
 - Flutter (basic)
 
 **Testing & Tools**
