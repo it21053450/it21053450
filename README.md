@@ -27,6 +27,7 @@ Always learning, building, and improving.
 ### 📫 Contact
 - 📧 Email: **odithachamika2015@gmail.com**
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/oditha-herath-00701318b/" target="_blank" style="text-decoration: none; color: inherit;">
+Oditha Herath
   <img 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="LinkedIn"
@@ -34,7 +35,7 @@ Always learning, building, and improving.
     height="18"
     style="vertical-align: middle; margin-right: 6px;"
   />
-  Oditha Herath
+  
 </a>
 
 
